@@ -1,0 +1,6 @@
+[submodule "node-server"]
+	path = node-server
+	url = https://github.com/yuezhang23/breweries-rating-node-app.git
+[submodule "react-web"]
+	path = react-web
+	url = https://github.com/yuezhang23/breweries-rating-react-app.git
