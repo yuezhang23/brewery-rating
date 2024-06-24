@@ -52,5 +52,5 @@ Included try-catch blocks to handle errors. When users navigate to pages (e.g., 
 
 ## Deployment
 
-- **Server from Heroku:** [Heroku Server](https://cafe-node-server-06d2fe9af4a2.herokuapp.com/)
-- **Web from Netlify:** [Netlify Web](https://main--kaleidoscopic-conkies-6c59ca.netlify.app/)
+- **Server from Heroku:** [Render Server](https://breweries-rating-node-app.onrender.com/)
+- **Web from Netlify:** [Netlify Web](https://sensational-biscotti-71a5da.netlify.app/#/Home/Guest)
