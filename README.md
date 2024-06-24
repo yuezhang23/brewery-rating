@@ -8,8 +8,8 @@ We use the NPM build system, React.js for the front-end website, Node.js for the
 
 1. Run the frontend: ```npm start```
 2. Install packages: ```npm install <module-name>```
-3. Common packages for web side: ```bootstrap```, ```react```, ```react-icons```, ```react-router```, ```redux```, ```react-google-maps/api```,
-4. Common packages for server side: ```express```, ```axios```, ```cors```,
+3. Common packages for web side: ```bootstrap```, ```react```, ```react-icons```, ```react-router```, ```redux```, ```react-google-maps/api```,etc.
+4. Common packages for server side: ```express```, ```axios```, ```cors```,etc.
 5. Common packages for database: ```mongoose```
 6. Run the server: ```nodemon App.js``` or ```node App.js```
 
