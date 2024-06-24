@@ -19,7 +19,7 @@ We use the NPM build system, React.js for the front-end website, Node.js for the
 Landing page for guests
 - **Top 5 likes/follows:** Dynamic board that changes with in-time ratings from users
 - **Brewery bank:** All breweries claimed from brewery owners (users) or from a remote API, listing name (hyperlink to homepage), brewery type, beer serving, contact info, like/follow/comment, random search, sign in/up
-- **Navigation:** Activities, Random Search, Next/Previous Page, My Breweries (owner only)
+- **Navigation:** Activities, Random Search, Next/Previous Page, My Breweries (brewery owner only)
 
 ### Login/Register
 User-oriented or triggered by clicking unauthorized button
