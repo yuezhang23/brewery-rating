@@ -34,6 +34,7 @@ User-oriented or triggered by clicking unauthorized button
 ### Details
 - **Map window:** Address and homepage
 - **Retrieve related data from other database domains:** Beers & Stores
+- **Settings (brewery owner only):** Edit details from beers and stores of the owner's brewery, and claim ownership of other breweries
 
 ### Profile
 - **Personal profile:** Personal info updates
