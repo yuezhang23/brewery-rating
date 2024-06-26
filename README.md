@@ -2,6 +2,11 @@
 
 This is a Yelp-like website that publishes user-generated ratings and reviews for breweries. We want brewery-lovers to be well-informed about famous breweries and freely interact with users of similar preferences on breweries.
 
+## Deployment
+
+- **Server from Heroku:** [Render Server](https://breweries-rating-node-app.onrender.com/)
+- **Web from Netlify:** [Netlify Web](https://main--sensational-biscotti-71a5da.netlify.app/)
+
 ## Building & Running
 
 We use the NPM build system, React.js for the front-end website, Node.js for the server side, and MongoDB for data storage. To run the system for the first time from the CLI:
@@ -50,8 +55,3 @@ User-oriented or triggered by clicking unauthorized button
 ## Error Handling
 
 Included try-catch blocks to handle errors. When users navigate to pages (e.g., personal profile, activities, settings) via copying URLs, they will be redirected to login. Like/follow/comment also requires user authentication.
-
-## Deployment
-
-- **Server from Heroku:** [Render Server](https://breweries-rating-node-app.onrender.com/)
-- **Web from Netlify:** [Netlify Web](https://main--sensational-biscotti-71a5da.netlify.app/)
