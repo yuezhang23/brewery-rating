@@ -2,7 +2,7 @@
 
 This is a Yelp-like website that publishes user-generated ratings and reviews for breweries. We want brewery-lovers to be well-informed about famous breweries and freely interact with users of similar preferences on breweries.
 
-## Deployment
+## Deployment Link
 
 - **Server from Heroku:** [Render Server](https://breweries-rating-node-app.onrender.com/)
 - **Web from Netlify:** [Netlify Web](https://main--sensational-biscotti-71a5da.netlify.app/)
